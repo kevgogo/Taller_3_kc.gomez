@@ -20,3 +20,7 @@ Este repositorio contiene la implementación del **Taller 3** del curso **COLSUB
    ```bash
    git clone https://github.com/kevgogo/Taller_3_kc.gomez.git
    cd Taller_3_kc.gomez
+
+2. **Ejecución de Pruebas**:
+   ```bash
+   python -m unittest discover
