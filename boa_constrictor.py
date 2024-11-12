@@ -8,7 +8,7 @@ class Boa_Constrictor(Animal_Exotico):
         self._kilos_comidos = 0
 
     def agregar_ratones(self):
-        if self._ratones_comidos >= 10:  # Si ya ha comido 10 ratones, lanzamos el error
+        if self._ratones_comidos >= 20:  # Si ya ha comido 10 ratones, lanzamos el error
             raise ValueError("Demasiados Ratones!")
         self._ratones_comidos += 1
         self._kilos_comidos += 0.5
