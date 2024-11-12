@@ -18,5 +18,5 @@ Este repositorio contiene la implementación del **Taller 3** del curso **COLSUB
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <URL-del-repositorio>
-   cd <nombre-del-repositorio>
+   git clone [Taller_3_kc.gomez](https://github.com/kevgogo/Taller_3_kc.gomez.git)
+   cd Taller_3_kc.gomez
